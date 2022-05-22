@@ -12,11 +12,11 @@ Status do Projeto: :heavy_check_mark: Concluído
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Pré-requisitos para criar o ambiente de Desenvolvimento](#pré-requisitos-para-criar-o-ambiente-de-desenvolvimento)
+:small_blue_diamond: [Software utilizado](#software-utilizado)
 
-:small_blue_diamond: [Criação do Ambiente de Desenvolvimento](#criação-do-ambiente-de-desenvolvimento)
+:small_blue_diamond: [Hardware utilizado](#criação-do-ambiente-de-desenvolvimento)
 
-:small_blue_diamond: [Como rodar a aplicação em Desenvolvimento](#como-rodar-a-aplicação-em-desenvolvimento-arrowforward)
+:small_blue_diamond: [MQTT Broker](#mqtt-broker)
 
 ## Descrição do projeto 
 
@@ -24,7 +24,7 @@ Status do Projeto: :heavy_check_mark: Concluído
   O projeto tem como objetivo a solução para automatizar a irrigação em vasos de planta. A implementação conta com sensores para identificar se o solo está seco ou úmido, em caso de seco então é acionado um atuador para efetuar a irrigação do solo e enviar as informações de data e hora ao Broker MQTT, onde tem um serviço que lê esse topic no Broker e envia as informações por e-mail. 
 </p>
 
-## Softwares utilizados
+## Software utilizado
 
 <p align="justify">
   As ferramentas abaixo auxiliam no desenvolvimento do código, compilação, testes e execução do sistema.
