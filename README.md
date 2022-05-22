@@ -18,6 +18,8 @@ Status do Projeto: :heavy_check_mark: Concluído
 
 :small_blue_diamond: [MQTT Broker](#mqtt-broker)
 
+:small_blue_diamond: [Projeto em Funcionamento](#projeto-em-funcionamento)
+
 ## Descrição do projeto 
 
 <p align="justify">
@@ -58,6 +60,11 @@ Status do Projeto: :heavy_check_mark: Concluído
 ## MQTT Broker
 
 :warning: [Broker](http://www.hivemq.com/demos/websocket-client/)
+
+## Projeto em Funcionamento
+
+Link do vídeo com o projeto em funcionamento e explicação.
+https://youtu.be/Z4pOaxnO7Mo
 
 
 ## Licença 
